@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1458425907/photo/blacksmith-at-work.webp?b=1&s=170667a&w=0&k=20&c=yV1bKnnkIXHqKTavsRXW8MeJvIVu7zOuLBrHE3fVYo4=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navb{
+    color: white;
+}
+
+.header{
+    color: white;
+    text-align: center;
+}
+
+.login{
+    padding-top: 8rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+}
